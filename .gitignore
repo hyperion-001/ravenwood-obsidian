@@ -1,0 +1,35 @@
+# Obsidian specific files
+.obsidian/
+.trash/
+.DS_Store
+
+# Obsidian workspace files
+*.workspace
+workspace.json
+workspace
+
+# Mobile app specific files
+.mobile/
+
+# Plugin specific files
+.space/
+
+# Temporary files
+*.temp
+*.tmp
+.tmp/
+tmp/
+
+# Log files
+*.log
+
+# System files
+Thumbs.db
+desktop.ini
+
+# Node modules (if you have any scripts)
+node_modules/
+
+# Personal or sensitive information
+.env
+.env.*
