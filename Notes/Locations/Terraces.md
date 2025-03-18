@@ -1,0 +1,4 @@
+
+The **Terrace Café** is a popular gathering spot located on the castle’s terraces, offering an open-air dining experience with stunning views of the grounds. Tables and chairs are set beneath stone arches, allowing students to enjoy their meals in the fresh air, surrounded by the beauty of Ravenwood’s landscape. The café serves lighter fare, such as fruit, cheese, bread, and seasonal dishes, making it an ideal spot for casual gatherings between classes or during study breaks.
+
+By day, the Terrace Café is a peaceful retreat where students can relax and chat over a light meal. In the evening, lanterns illuminate the space, casting a soft glow over the tables and creating a tranquil, almost magical ambiance under the open sky.

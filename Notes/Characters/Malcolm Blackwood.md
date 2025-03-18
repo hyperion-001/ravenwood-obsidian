@@ -1,0 +1,47 @@
+---
+aliases:
+- Malcolm
+tags:
+  - character
+---
+# Malcolm Blackwood 
+*Noble owner of Ravenwood Estate in  and patron of medical innovation, supports advancement while maintaining political connections.*
+- **Aliases:**
+- **Title/Occupation:** Duke of Ravenwood
+- **Affiliation:** 
+	- [[Blackwood Family]]
+	- [[Ravenwood Estate]]
+- **Backstory:**
+- **Appearance:**
+- **Personality:**
+- **Goals:**
+	- Maintain Ravenwood's status
+	- Advance social position
+	- Maintain political connections
+	- Aid scientific advancement
+		- Monarchium program
+		- Medical Science
+		- Scientific Innovation
+	- Maintain personal secrets
+		- War atrocities committed in 1745 with [[Alexander Bennett]]
+- **Relationships:**
+	- Family	
+		- Spouse: [[Margaret Blackwood]]
+		- Daughters: [[Adelaide Blackwood]], [[Lucie Blackwood]]
+	- [[Gideon Aldrich]]
+	- [[Alexander Bennett]]
+- **Events & Timelines** 
+	- [[ ]]
+- **Items**
+	- [[ ]]
+- **Locations:** 
+	- [[ ]]
+- **Lore**
+	- [[ ]]
+- **Narrative Function**
+	- [[ ]]
+- **Narrative Arcs**
+	- [[ ]]
+- **Real-World Context**
+	- [[ ]]
+- **Corresponding Chatbot**: [[ ]]

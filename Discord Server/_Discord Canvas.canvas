@@ -1,0 +1,265 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 440,
+      "id": "586ea9326aa58b61",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1440,
+      "x": -1080,
+      "y": -600
+    },
+    {
+      "file": "xAssets/0021.jpeg",
+      "height": 534,
+      "id": "5b0cf9d8c4ed2dc0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1068,
+      "x": -920,
+      "y": -2800
+    },
+    {
+      "file": "xAssets/greenhouse3.png",
+      "height": 344,
+      "id": "cc946e754054a6f0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 956,
+      "x": -802,
+      "y": -1760
+    },
+    {
+      "file": "xAssets/Vals_Underground_Pool_002_2.png",
+      "height": 344,
+      "id": "0bba17d98c323a4c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 687,
+      "x": -1533,
+      "y": -1760
+    },
+    {
+      "file": "xAssets/fire.thread_a_yellowed_parchment_filled_with_intricately_detail_300bd475-1ac0-4377-b624-69c4d345179e.png",
+      "height": 400,
+      "id": "90106ece91e50316",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 267,
+      "x": -1280,
+      "y": -2320
+    },
+    {
+      "file": "xAssets/712d4fdd.png",
+      "height": 407,
+      "id": "cdc9a6d8186e761e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 543,
+      "x": -1560,
+      "y": -2800
+    },
+    {
+      "file": "xAssets/greenhouse2.png",
+      "height": 345,
+      "id": "9bb238749a870f36",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 959,
+      "x": -760,
+      "y": -1360
+    },
+    {
+      "file": "xAssets/greenhouse1.png",
+      "height": 344,
+      "id": "f3876ab563ddd3a2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 956,
+      "x": -1720,
+      "y": -1160
+    },
+    {
+      "file": "xAssets/fire.thread_a_yellowed_parchment_filled_with_intricately_detail_7799ef15-3070-4927-89a1-95a4bd20e5af.png",
+      "height": 400,
+      "id": "d06b05968e6301e8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 267,
+      "x": -1600,
+      "y": -2320
+    },
+    {
+      "file": "xAssets/Screenshot 2025-02-18 at 3.13.41 PM.png",
+      "height": 1272,
+      "id": "2a3e072ef54b2dc5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 440,
+      "x": 680,
+      "y": -1920
+    },
+    {
+      "file": "xAssets/8ed106eb.png",
+      "height": 529,
+      "id": "20fcf73ca4612478",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 705,
+      "x": -2320,
+      "y": -1760
+    },
+    {
+      "height": 360,
+      "id": "1c0c17b0d89ba56c",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "## CHARACTERS CATEGORY\n\n- Character Profiles are in the forum there at the top\n- Each character has their own channel here where they are activated.\n- These character chat channels are open and visible to all members and should follow normal SFW-only rules as stated in the server rules.",
+      "type": "text",
+      "width": 520,
+      "x": 1120,
+      "y": -1840
+    },
+    {
+      "height": 320,
+      "id": "9f31ae3330a1c8d1",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "## COMMONS CATEGORY\n\n- Prim's Tavern renamed \"tavern\": Prim is deactivated in this but still able to be tagged.\n- Moved nsfw channel up with the rest of the chat channels.\n- This keeps the apothecary, counting, and commands out of the way of chat channels.",
+      "type": "text",
+      "width": 520,
+      "x": 1120,
+      "y": -1120
+    },
+    {
+      "file": "xAssets/Screenshot 2025-02-18 at 3.26.58 PM.png",
+      "height": 1338,
+      "id": "222c772427b2ffbf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 440,
+      "x": 1720,
+      "y": -1920
+    },
+    {
+      "height": 320,
+      "id": "abca4dbf1d271e44",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "## RESIDENCE WING\n\n- New category\n- Each bot has their own channel\n- Members can open private threads within these channels for NSFW roleplay if they wish\n- Members gain the role to access whichever of these channels they want by buying the character's icon from the Apothecary with server economy\n- Specific rules for this section are outlined in the \"instructions channel\" there",
+      "type": "text",
+      "width": 480,
+      "x": 2160,
+      "y": -1400
+    },
+    {
+      "file": "xAssets/Kaida1.png",
+      "height": 253,
+      "id": "bb8fe056fed02002",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 169,
+      "x": -1043,
+      "y": -564
+    },
+    {
+      "file": "xAssets/Lilith1.png",
+      "height": 253,
+      "id": "aa109ff7fe4c2f41",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 169,
+      "x": -840,
+      "y": -564
+    },
+    {
+      "file": "xAssets/Remi1.png",
+      "height": 253,
+      "id": "9c679ff288b6a7d3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 169,
+      "x": -640,
+      "y": -564
+    },
+    {
+      "file": "xAssets/Rowyn.png",
+      "height": 253,
+      "id": "fdb31e5c37bed371",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 169,
+      "x": -440,
+      "y": -564
+    },
+    {
+      "file": "xAssets/Logo_2.png",
+      "height": 129,
+      "id": "3fc6d0bb86a757e7",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 399,
+      "x": -555,
+      "y": -300
+    },
+    {
+      "file": "xAssets/Luna1.png",
+      "height": 253,
+      "id": "ed39add250003476",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 169,
+      "x": -240,
+      "y": -564
+    },
+    {
+      "file": "xAssets/Val.png",
+      "height": 253,
+      "id": "b70eea30ef5842f5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 169,
+      "x": -40,
+      "y": -564
+    },
+    {
+      "file": "xAssets/Primrose.png",
+      "height": 253,
+      "id": "cbaecdd4b8ca0ec3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 169,
+      "x": 160,
+      "y": -564
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "c7c3bbdad1e11bac",
+      "fromSide": "right",
+      "id": "5afcea37030831a0",
+      "styleAttributes": {
+        "path": null
+      },
+      "toNode": "18cf5f6103f5d935",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f501ac334ec11b59",
+      "fromSide": "bottom",
+      "id": "2cc3ee49aeb59f18",
+      "styleAttributes": {
+      },
+      "toNode": "c7c3bbdad1e11bac",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c7c3bbdad1e11bac",
+      "fromSide": "left",
+      "id": "0f8662dad2783079",
+      "styleAttributes": {
+      },
+      "toNode": "7b1caa1c02c5520f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "40d5cf6fa5a817bf",
+      "fromSide": "bottom",
+      "id": "b24464cf82574888",
+      "styleAttributes": {
+      },
+      "toNode": "9cb34318a743c8f8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9cb34318a743c8f8",
+      "fromSide": "bottom",
+      "id": "7a8464f214f488d0",
+      "styleAttributes": {
+      },
+      "toNode": "5121d2edd6157b45",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "80098c56df4e8fe5",
+      "fromSide": "bottom",
+      "id": "fde235955ce8dea4",
+      "styleAttributes": {
+      },
+      "toNode": "3a1c516197724dbb",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 60,
+      "id": "c7c3bbdad1e11bac",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Pain Management Research Division",
+      "type": "text",
+      "width": 260,
+      "x": -320,
+      "y": -680
+    },
+    {
+      "height": 60,
+      "id": "f501ac334ec11b59",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Medical Research",
+      "type": "text",
+      "width": 260,
+      "x": -320,
+      "y": -880
+    },
+    {
+      "height": 60,
+      "id": "9f4e275ec3a5b6a0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sciences",
+      "type": "text",
+      "width": 260,
+      "x": -320,
+      "y": -1060
+    },
+    {
+      "file": "Ravenwood/Notes/Lore/Traditional Methods Research Division.md",
+      "height": 580,
+      "id": "7b1caa1c02c5520f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 380,
+      "x": -960,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "file": "Ravenwood/Notes/Lore/Novel Approaches Research Division.md",
+      "height": 580,
+      "id": "18cf5f6103f5d935",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 380,
+      "x": 240,
+      "y": -440
+    },
+    {
+      "height": 60,
+      "id": "40d5cf6fa5a817bf",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Engineering",
+      "type": "text",
+      "width": 260,
+      "x": 1220,
+      "y": -1060
+    },
+    {
+      "file": "Ravenwood/Notes/Lore/Engineering Division.md",
+      "height": 420,
+      "id": "5121d2edd6157b45",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 340,
+      "x": 1010,
+      "y": -440
+    },
+    {
+      "height": 60,
+      "id": "9cb34318a743c8f8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Medical Engineering",
+      "type": "text",
+      "width": 260,
+      "x": 1050,
+      "y": -700
+    },
+    {
+      "height": 60,
+      "id": "80098c56df4e8fe5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Arcana",
+      "type": "text",
+      "width": 260,
+      "x": 480,
+      "y": -1300
+    },
+    {
+      "height": 60,
+      "id": "3a1c516197724dbb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Lunar Division",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -1060
+    }
+  ]
+}

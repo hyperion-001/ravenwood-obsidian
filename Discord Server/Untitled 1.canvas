@@ -1,0 +1,287 @@
+{
+  "edges": [
+    {
+      "fromNode": "b7f57fed75988a72",
+      "fromSide": "bottom",
+      "id": "9b654f93f91a8db4",
+      "styleAttributes": {
+      },
+      "toNode": "a90bbacce91654e4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b7f57fed75988a72",
+      "fromSide": "right",
+      "id": "b9b928e56f4fe2d0",
+      "styleAttributes": {
+      },
+      "toNode": "6ab8aa8c3ee69218",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0849380c492ee861",
+      "fromSide": "bottom",
+      "id": "8adc5aea5a62e204",
+      "label": "role given: mysterious note",
+      "styleAttributes": {
+      },
+      "toNode": "0f12296f79e47284",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0f12296f79e47284",
+      "fromSide": "bottom",
+      "id": "0b5e93327676843e",
+      "styleAttributes": {
+      },
+      "toNode": "21087e4c93fca323",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0f12296f79e47284",
+      "fromSide": "right",
+      "id": "4d1e0740735273ea",
+      "styleAttributes": {
+      },
+      "toNode": "7ebde2aee56b913b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7ebde2aee56b913b",
+      "fromSide": "bottom",
+      "id": "7094f52f3cd4816e",
+      "label": "Answer: \"double-helix staircase\"\nrole given: curious explorer",
+      "styleAttributes": {
+      },
+      "toNode": "59d9f0a962312f73",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "59d9f0a962312f73",
+      "fromSide": "right",
+      "id": "7e8aa2a926016ed8",
+      "styleAttributes": {
+      },
+      "toNode": "ca41b87b5c15c1db",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ca41b87b5c15c1db",
+      "fromSide": "bottom",
+      "id": "91aa2e02a621749a",
+      "label": "Answer: \"Lilith Ravenna Blackwood\"\nrole given: Library Apprentice",
+      "styleAttributes": {
+      },
+      "toNode": "b7f57fed75988a72",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "59d9f0a962312f73",
+      "fromSide": "bottom",
+      "id": "fab4b9014bd3ca06",
+      "styleAttributes": {
+      },
+      "toNode": "6cff3f79ae1a0d8f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "11521fadf1186541",
+      "fromSide": "bottom",
+      "id": "21b3acd9abdaf1da",
+      "styleAttributes": {
+      },
+      "toNode": "f0745bedacd32ac9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f0745bedacd32ac9",
+      "fromSide": "bottom",
+      "id": "d16774554c06b487",
+      "styleAttributes": {
+      },
+      "toNode": "c864a303616cf063",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 460,
+      "id": "c1ec7e8ab17ab6ac",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 730,
+      "x": -560,
+      "y": -120
+    },
+    {
+      "height": 360,
+      "id": "f0d4dc366b8d4c55",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 730,
+      "x": -560,
+      "y": 560
+    },
+    {
+      "height": 300,
+      "id": "301c8ade3a8f23d9",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 730,
+      "x": -560,
+      "y": 1120
+    },
+    {
+      "color": "4",
+      "height": 120,
+      "id": "0849380c492ee861",
+      "styleAttributes": {
+      },
+      "text": "Entry point: Purchase \"Mysterious Note\" from the Apothecary",
+      "type": "text",
+      "width": 260,
+      "x": -110,
+      "y": -360
+    },
+    {
+      "height": 60,
+      "id": "0f12296f79e47284",
+      "styleAttributes": {
+      },
+      "text": "Channel unlock: mysterious-messages",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": -100
+    },
+    {
+      "height": 300,
+      "id": "21087e4c93fca323",
+      "styleAttributes": {
+      },
+      "text": "Channel content:\nNote pinned to the channel:\n\"Welcome, seeker of knowledge. Your journey through Ravenwood's mysteries begins.\nFirst, prove your worth by demonstrating basic knowledge of our hallowed halls.\"",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 20
+    },
+    {
+      "height": 220,
+      "id": "7ebde2aee56b913b",
+      "styleAttributes": {
+      },
+      "text": "\"In Ravenwood's grand entrance, a notable architectural feature marks the castle's heart. Name this feature described in the castle's architecture documents.\"",
+      "type": "text",
+      "width": 260,
+      "x": -110,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "59d9f0a962312f73",
+      "styleAttributes": {
+      },
+      "text": "channel unlock: hidden passages",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 580
+    },
+    {
+      "height": 60,
+      "id": "f0745bedacd32ac9",
+      "styleAttributes": {
+      },
+      "text": "# 2",
+      "type": "text",
+      "width": 60,
+      "x": -680,
+      "y": 580
+    },
+    {
+      "height": 60,
+      "id": "11521fadf1186541",
+      "styleAttributes": {
+      },
+      "text": "# 1",
+      "type": "text",
+      "width": 60,
+      "x": -680,
+      "y": -100
+    },
+    {
+      "height": 180,
+      "id": "ca41b87b5c15c1db",
+      "styleAttributes": {
+      },
+      "text": "Message:\n\"Which member of Ravenwood's staff is known for always wearing gloves when handling books?\"",
+      "type": "text",
+      "width": 260,
+      "x": -110,
+      "y": 720
+    },
+    {
+      "height": 60,
+      "id": "b7f57fed75988a72",
+      "styleAttributes": {
+      },
+      "text": "channel unlock: dusty archives",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 1140
+    },
+    {
+      "height": 140,
+      "id": "a90bbacce91654e4",
+      "styleAttributes": {
+      },
+      "text": "Channel content: Supplemental lore about the Library of Shadows, images, etc.",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 1260
+    },
+    {
+      "height": 140,
+      "id": "6ab8aa8c3ee69218",
+      "styleAttributes": {
+      },
+      "text": "Message: something involving period medical practices",
+      "type": "text",
+      "width": 260,
+      "x": -110,
+      "y": 1260
+    },
+    {
+      "height": 60,
+      "id": "6cff3f79ae1a0d8f",
+      "styleAttributes": {
+      },
+      "text": "Channel content:",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 800
+    },
+    {
+      "height": 60,
+      "id": "c864a303616cf063",
+      "styleAttributes": {
+      },
+      "text": "# 3",
+      "type": "text",
+      "width": 60,
+      "x": -680,
+      "y": 1140
+    }
+  ]
+}

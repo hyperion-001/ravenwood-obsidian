@@ -1,0 +1,288 @@
+{
+	"edges":[],
+	"nodes":[
+		{
+			"height":675,
+			"id":"4f83508a305438c2",
+			"isStartNode":true,
+			"label":"Start Slide",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"type":"group",
+			"width":1200,
+			"x":6740,
+			"y":7640
+		},
+		{
+			"height":460,
+			"id":"5d4a72e9eaf7b8b1",
+			"label":"LOS",
+			"styleAttributes":{},
+			"type":"group",
+			"width":640,
+			"x":8000,
+			"y":6240
+		},
+		{
+			"height":300,
+			"id":"4d0affc831f97fde",
+			"label":"Castle Proper",
+			"styleAttributes":{},
+			"type":"group",
+			"width":540,
+			"x":9440,
+			"y":5920
+		},
+		{
+			"height":300,
+			"id":"f2ec7d63c78ff5ae",
+			"label":"Ravenwood Lake",
+			"styleAttributes":{},
+			"type":"group",
+			"width":480,
+			"x":9200,
+			"y":8720
+		},
+		{
+			"height":300,
+			"id":"02ffaf6af806e502",
+			"label":"SW Grounds",
+			"styleAttributes":{},
+			"type":"group",
+			"width":440,
+			"x":9520,
+			"y":7560
+		},
+		{
+			"height":300,
+			"id":"befbd6d8c4a53ac1",
+			"label":"Academic Sector",
+			"styleAttributes":{},
+			"type":"group",
+			"width":380,
+			"x":9920,
+			"y":8200
+		},
+		{
+			"height":300,
+			"id":"bec5ca1093886c66",
+			"label":"Med/Research",
+			"styleAttributes":{},
+			"type":"group",
+			"width":420,
+			"x":10300,
+			"y":8600
+		},
+		{
+			"height":300,
+			"id":"48ae4568430b9353",
+			"label":"Silver Mines",
+			"styleAttributes":{},
+			"type":"group",
+			"width":520,
+			"x":9640,
+			"y":9200
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Ravenwood Estate West Grounds Sector.md",
+			"height":400,
+			"id":"5055204a7237fd3f",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":1280,
+			"y":10240
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Ravenwood Lake.md",
+			"height":400,
+			"id":"18b8547ad424d5bb",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":1120,
+			"y":6560
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Private Chambers - Val Blackfin.md",
+			"height":400,
+			"id":"a771fc89d9299343",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":1920,
+			"y":6320
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/St. Elara's Church.md",
+			"height":400,
+			"id":"f231d4b7ec11a34f",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":2120,
+			"y":9800
+		},
+		{
+			"height":60,
+			"id":"1da6fd12c4fa827c",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"SW Grounds Sector",
+			"type":"text",
+			"width":260,
+			"x":9560,
+			"y":7600
+		},
+		{
+			"height":60,
+			"id":"9d17065ea00f5e4a",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Academic Sector",
+			"type":"text",
+			"width":260,
+			"x":9940,
+			"y":8240
+		},
+		{
+			"height":60,
+			"id":"7e1388131f3f925d",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Medical & Research Sector",
+			"type":"text",
+			"width":260,
+			"x":10320,
+			"y":8680
+		},
+		{
+			"height":60,
+			"id":"9b89a2806b9ae346",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Ravenwood Silver Mines",
+			"type":"text",
+			"width":260,
+			"x":9680,
+			"y":9280
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Remi's Greenhouse.md",
+			"height":400,
+			"id":"6af0f2e10f8828f6",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":3040,
+			"y":10440
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Ravenwood Estate Central Courtyard Sector.md",
+			"height":400,
+			"id":"a7253c72cd240b9a",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":3680,
+			"y":7840
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Private Residence - Remi Willowwood.md",
+			"height":400,
+			"id":"48ab2726384d0d9d",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":2880,
+			"y":9160
+		},
+		{
+			"file":"xAssets/Ravenwood Castle Layout.drawio (2).png",
+			"height":7200,
+			"id":"ef9183465ae5f8af",
+			"styleAttributes":{},
+			"type":"file",
+			"width":8160,
+			"x":640,
+			"y":4160
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Ravenwood Estate Library of Shadows Sector.md",
+			"height":400,
+			"id":"50f12276eddd0304",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":7040,
+			"y":8480
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Ravenwood Estate Academic Medical Sector.md",
+			"height":400,
+			"id":"5a96a294555a4f27",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":8000,
+			"y":5600
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Hyperion Blackthorne's Chambers.md",
+			"height":400,
+			"id":"d7f2e6fa22272dec",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":7600,
+			"y":6920
+		},
+		{
+			"autoResizeHeight":true,
+			"height":60,
+			"id":"47a3829d651fce72",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Library of Shadows Sector",
+			"type":"text",
+			"width":260,
+			"x":8040,
+			"y":6300
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate Academic Sector.md",
+			"height":400,
+			"id":"ba9d0d578728250e",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":6560,
+			"y":10240
+		},
+		{
+			"file":"Ravenwood/Notes/Locations/Ravenwood Estate/Ravenwood Estate Castle Proper Sector.md",
+			"height":400,
+			"id":"8df683689e54efa7",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":5280,
+			"y":5280
+		},
+		{
+			"height":60,
+			"id":"33d213debf0550b6",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Castle Proper Sector",
+			"type":"text",
+			"width":260,
+			"x":9460,
+			"y":5940
+		},
+		{
+			"height":60,
+			"id":"1b59751ad533096b",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Ravenwood Lake",
+			"type":"text",
+			"width":260,
+			"x":9240,
+			"y":8760
+		}
+	]
+}

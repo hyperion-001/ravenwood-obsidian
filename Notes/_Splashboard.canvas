@@ -1,0 +1,160 @@
+{
+  "nodes": [
+    {
+      "id": "77d71ff7bb86c9f0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -240,
+      "y": -420,
+      "width": 1040,
+      "height": 660,
+      "color": "4",
+      "label": "Fact"
+    },
+    {
+      "id": "0e6f1ef779afba79",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -360,
+      "width": 600,
+      "height": 260,
+      "color": "4",
+      "label": "Interested British Parties"
+    },
+    {
+      "id": "462aa5f1f44a74f6",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 220,
+      "y": 300,
+      "width": 670,
+      "height": 160,
+      "color": "3",
+      "label": "Speculation"
+    },
+    {
+      "id": "abd3f39bf18952cb",
+      "type": "text",
+      "text": "**Growing number of medical schools**",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -180,
+      "y": -260,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6476ce3e37ff86c0",
+      "type": "text",
+      "text": "**Murder Act of 1752**\nBodies of executed murderers able to be used for dissection",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -40,
+      "y": 60,
+      "width": 240,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "be2dbf89c207e28d",
+      "type": "text",
+      "text": "**Royal College of Physicians**",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 100,
+      "y": -320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "75a2e951ee6323f3",
+      "type": "text",
+      "text": "**Company of Barber-Surgeons**",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 100,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "eacb1660bf43fc4e",
+      "type": "text",
+      "text": "*Increased* push by interested parties for stricter punishments for criminals",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 230,
+      "y": 315,
+      "width": 260,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "9d552345921ff31f",
+      "type": "text",
+      "text": "**British military needs medical advancement during 7 Years War**",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 490,
+      "y": -230,
+      "width": 210,
+      "height": 160
+    },
+    {
+      "id": "9910bca617479e0b",
+      "type": "text",
+      "text": "**Increased capital punishment rates**",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 595,
+      "y": 335,
+      "width": 260,
+      "height": 80,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3407b657f18fdbf4",
+      "styleAttributes": {},
+      "fromNode": "6476ce3e37ff86c0",
+      "fromSide": "bottom",
+      "toNode": "eacb1660bf43fc4e",
+      "toSide": "left"
+    },
+    {
+      "id": "e6fde4a66e08662f",
+      "styleAttributes": {},
+      "fromNode": "0e6f1ef779afba79",
+      "fromSide": "bottom",
+      "toNode": "6476ce3e37ff86c0",
+      "toSide": "top",
+      "label": "growing need for cadavers for dissection"
+    },
+    {
+      "id": "ed074a3699a0d9bc",
+      "styleAttributes": {},
+      "fromNode": "eacb1660bf43fc4e",
+      "fromSide": "right",
+      "toNode": "9910bca617479e0b",
+      "toSide": "left"
+    },
+    {
+      "id": "e8040f5e17a7e2b1",
+      "styleAttributes": {},
+      "fromNode": "9d552345921ff31f",
+      "fromSide": "bottom",
+      "toNode": "6476ce3e37ff86c0",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

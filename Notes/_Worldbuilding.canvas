@@ -1,0 +1,86 @@
+{
+	"nodes":[
+		{
+			"id":"74bec20dc41cac02",
+			"type":"file",
+			"file":"xAssets/002_Extended_2 copy.png",
+			"styleAttributes":{},
+			"x":-441,
+			"y":-620,
+			"width":1392,
+			"height":460
+		},
+		{
+			"id":"dcfcb2fc8cfbdef0",
+			"type":"text",
+			"text":"R A V E N W O O D",
+			"styleAttributes":{},
+			"x":-441,
+			"y":-680,
+			"width":261,
+			"height":60
+		},
+		{
+			"id":"15a048deff1ab9b3",
+			"type":"file",
+			"file":"xAssets/Screenshot 2025-02-12 at 2.10.01 PM.png",
+			"styleAttributes":{},
+			"x":-340,
+			"y":100,
+			"width":399,
+			"height":134
+		},
+		{
+			"id":"13bb2599129c7434",
+			"type":"file",
+			"file":"xAssets/Screenshot 2025-02-12 at 2.10.36 PM.png",
+			"styleAttributes":{},
+			"x":-340,
+			"y":260,
+			"width":400,
+			"height":133
+		},
+		{
+			"id":"14d46a84180a929a",
+			"type":"file",
+			"file":"xAssets/Screenshot 2025-02-12 at 2.10.16 PM.png",
+			"styleAttributes":{},
+			"x":-340,
+			"y":420,
+			"width":400,
+			"height":132
+		},
+		{
+			"id":"b7be09d4e73c2cc7",
+			"type":"file",
+			"file":"xAssets/Screenshot 2025-02-12 at 2.10.55 PM.png",
+			"styleAttributes":{},
+			"x":120,
+			"y":102,
+			"width":400,
+			"height":132
+		},
+		{
+			"id":"b3b543988db00cb0",
+			"type":"file",
+			"file":"xAssets/Screenshot 2025-02-12 at 2.05.24 PM.png",
+			"styleAttributes":{},
+			"x":120,
+			"y":258,
+			"width":400,
+			"height":135
+		},
+		{
+			"id":"244cd351c5bc1656",
+			"type":"file",
+			"file":"xAssets/Screenshot 2025-02-12 at 2.09.43 PM.png",
+			"styleAttributes":{},
+			"x":120,
+			"y":418,
+			"width":400,
+			"height":134
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}
